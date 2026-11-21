@@ -77,5 +77,5 @@ my AI agent's make.fun bounty"
 - main.ts run 1 sha256: 22b9059bb7e08f4cadde1168b6f14d7e57954786a69e15fe1276ab2fcc21671a
 - main.ts run 2 sha256: 22b9059bb7e08f4cadde1168b6f14d7e57954786a69e15fe1276ab2fcc21671a
   (identical; also equals assets/entry.png sha256)
-- Repo HEAD commit: ___
-- Repo created at (UTC): ___ (must be after 19 Nov 14:00 UTC)
+- Repo HEAD commit: 8f492e411966a221336a28e9b716a154bf87ecc0 (local = remote HEAD, verified via `git ls-remote`)
+- Repo created at (UTC): 2026-11-21T15:40:36Z (after 19 Nov 14:00 UTC opening) — public, MIT detected, homepage https://make.fun/bounty/gta6-meme-x-01
