@@ -53,7 +53,7 @@ def s(v):
 # ---------------------------------------------------------------- constants
 # PLAY CODE -- FILL IN before posting (see module docstring). Rendered as a
 # blank until then; the build is otherwise final.
-PLAY_CODE = "makefun-___-___-___"
+PLAY_CODE = "makefun-zephyr-bobcat-earmuff"
 
 # Palette
 NAVY_CARD = (16, 28, 63)
